@@ -1,0 +1,11 @@
+{
+  "name": "esm-assignment",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Check knowledge on ESM modules",
+  "main": "app.js",
+  "author": "Viktor Suranovych",
+  "dependencies": {
+    "jwt-encode": "^1.0.1"
+  }
+}

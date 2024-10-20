@@ -1,0 +1,11 @@
+{
+  "name": "cjs-assignment",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Check knowledge on CommonJS modules",
+  "main": "app.js",
+  "author": "Viktor Suranovych",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
